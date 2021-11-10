@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "549561683518",
+    "firebase_url": "https://grounded-chain-267616.firebaseio.com",
+    "project_id": "grounded-chain-267616",
+    "storage_bucket": "grounded-chain-267616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549561683518:android:89df1b2d9fd2e8e70a8b6f",
+        "android_client_info": {
+          "package_name": "com.animations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549561683518-tv9t4g76gk7biflvt3bglo35s8geq70n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animations",
+            "certificate_hash": "77a4ec6c0a12ccff78a354fe29c2cdc15f88d89c"
+          }
+        },
+        {
+          "client_id": "549561683518-8n18rv0sakne1std1m95d679cgr38m1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMS9AKg41-DMQbGK_pIyiSaIP9cx_Gg_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549561683518-8n18rv0sakne1std1m95d679cgr38m1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549561683518-tc7f3ccqs6e6tlb4at70cshsch01gsn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travel-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549561683518:android:046ef8f2e98442350a8b6f",
+        "android_client_info": {
+          "package_name": "com.mypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549561683518-eqaeq4sn3evjsjdb83g24o21154i3kqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mypro",
+            "certificate_hash": "f766599993eac8ccbd1c6a3e3712a8d56b173789"
+          }
+        },
+        {
+          "client_id": "549561683518-8n18rv0sakne1std1m95d679cgr38m1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMS9AKg41-DMQbGK_pIyiSaIP9cx_Gg_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549561683518-8n18rv0sakne1std1m95d679cgr38m1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549561683518-tc7f3ccqs6e6tlb4at70cshsch01gsn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.travel-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
