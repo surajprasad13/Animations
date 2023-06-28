@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		006D091B2A4CAE06008B9BDA /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09122A4CAE05008B9BDA /* Inter-Black.ttf */; };
+		006D091C2A4CAE06008B9BDA /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09132A4CAE05008B9BDA /* Inter-Bold.ttf */; };
+		006D091D2A4CAE06008B9BDA /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09142A4CAE06008B9BDA /* Inter-ExtraLight.ttf */; };
+		006D091E2A4CAE06008B9BDA /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09152A4CAE06008B9BDA /* Inter-Regular.ttf */; };
+		006D091F2A4CAE06008B9BDA /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09162A4CAE06008B9BDA /* Inter-SemiBold.ttf */; };
+		006D09202A4CAE06008B9BDA /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09172A4CAE06008B9BDA /* Inter-ExtraBold.ttf */; };
+		006D09212A4CAE06008B9BDA /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09182A4CAE06008B9BDA /* Inter-Thin.ttf */; };
+		006D09222A4CAE06008B9BDA /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D09192A4CAE06008B9BDA /* Inter-Light.ttf */; };
+		006D09232A4CAE06008B9BDA /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 006D091A2A4CAE06008B9BDA /* Inter-Medium.ttf */; };
 		00E356F31AD99517003FC87E /* AnimationsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AnimationsTests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-Animations.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-Animations.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
@@ -27,6 +36,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		006D09122A4CAE05008B9BDA /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		006D09132A4CAE05008B9BDA /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		006D09142A4CAE06008B9BDA /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		006D09152A4CAE06008B9BDA /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		006D09162A4CAE06008B9BDA /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		006D09172A4CAE06008B9BDA /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		006D09182A4CAE06008B9BDA /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		006D09192A4CAE06008B9BDA /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		006D091A2A4CAE06008B9BDA /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
 		00E356EE1AD99517003FC87E /* AnimationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AnimationsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationsTests.m; sourceTree = "<group>"; };
@@ -116,6 +134,15 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				006D09122A4CAE05008B9BDA /* Inter-Black.ttf */,
+				006D09132A4CAE05008B9BDA /* Inter-Bold.ttf */,
+				006D09172A4CAE06008B9BDA /* Inter-ExtraBold.ttf */,
+				006D09142A4CAE06008B9BDA /* Inter-ExtraLight.ttf */,
+				006D09192A4CAE06008B9BDA /* Inter-Light.ttf */,
+				006D091A2A4CAE06008B9BDA /* Inter-Medium.ttf */,
+				006D09152A4CAE06008B9BDA /* Inter-Regular.ttf */,
+				006D09162A4CAE06008B9BDA /* Inter-SemiBold.ttf */,
+				006D09182A4CAE06008B9BDA /* Inter-Thin.ttf */,
 				13B07FAE1A68108700A75B9A /* Animations */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* AnimationsTests */,
@@ -242,8 +269,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				006D09222A4CAE06008B9BDA /* Inter-Light.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				006D091D2A4CAE06008B9BDA /* Inter-ExtraLight.ttf in Resources */,
+				006D09212A4CAE06008B9BDA /* Inter-Thin.ttf in Resources */,
+				006D091B2A4CAE06008B9BDA /* Inter-Black.ttf in Resources */,
+				006D09202A4CAE06008B9BDA /* Inter-ExtraBold.ttf in Resources */,
+				006D091C2A4CAE06008B9BDA /* Inter-Bold.ttf in Resources */,
+				006D091E2A4CAE06008B9BDA /* Inter-Regular.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				006D09232A4CAE06008B9BDA /* Inter-Medium.ttf in Resources */,
+				006D091F2A4CAE06008B9BDA /* Inter-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -562,7 +598,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -596,6 +632,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -633,7 +670,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -659,6 +696,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
